@@ -1,0 +1,48 @@
+.box-bin { }
+
+.button-box {
+    spacing: 3px;
+}
+
+.window-button {
+    width: 24px;
+    height: 28px;
+    
+    transition-duration: 300;
+}
+
+.minimize {
+    background-image: url("minimize_focused_normal.png");
+}
+
+.minimize:hover {
+    background-image: url("minimize_focused_prelight.png");
+}
+
+.minimize:active {
+    backgrbackground_cloneound-image: url("minimize_focused_pressed.png");
+}
+
+.maximize {
+    background-image: url("maximize_focused_normal.png");
+}
+
+.maximize:hover {
+    background-image: url("maximize_focused_prelight.png");
+}
+
+.maximize:active {
+    background-image: url("maximize_focused_pressed.png");
+}
+
+.close {
+    background-image: url("close_focused_normal.png");
+}
+
+.close:hover {
+    background-image: url("close_focused_prelight.png");
+}
+
+.close:active {
+    background-image: url("close_focused_pressed.png");
+}
