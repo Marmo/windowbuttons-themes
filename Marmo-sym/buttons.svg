@@ -413,10 +413,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.6985351"
-     inkscape:cx="180.79441"
+     inkscape:cx="133.47838"
      inkscape:cy="872.47652"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -434,7 +434,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -451,17 +451,17 @@
        inkscape:label="#g4403"
        transform="translate(-1.5044119,-2.8122542)">
       <g
-         transform="matrix(1.5568615,0,0,1.5568615,-95.55886,-174.49129)"
+         transform="matrix(1.1989034,0,0,1.1989033,-61.616761,-104.35524)"
          id="g4387">
         <path
            inkscape:connector-curvature="0"
            id="path4265"
            d="m 90.267854,191.38007 9.107149,9.10714"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92695367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.50228667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:export-xdpi="58.153805"
            inkscape:export-ydpi="58.153805" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92695367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.50228667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 99.375003,191.38007 -9.107149,9.10714"
            id="path4267"
            inkscape:connector-curvature="0"
@@ -548,17 +548,17 @@
          inkscape:export-xdpi="58"
          inkscape:export-filename="/home/martin/.local/share/gnome-shell/extensions/window_buttons@biox.github.com/themes/Marmoh_sym/close_focused_prelight.png"
          style="filter:url(#filter6013)"
-         transform="matrix(1.5568615,0,0,1.5568615,-95.218478,-174.02054)"
+         transform="matrix(1.0534349,0,0,1.0534347,-47.482844,-75.382289)"
          id="g5128">
         <path
            inkscape:connector-curvature="0"
            id="path5130"
            d="m 90.267854,191.38007 9.107149,9.10714"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92695367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.84782696;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:export-xdpi="58.153805"
            inkscape:export-ydpi="58.153805" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92695367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.84782696;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 99.375003,191.38007 -9.107149,9.10714"
            id="path5132"
            inkscape:connector-curvature="0"
@@ -567,14 +567,14 @@
       </g>
       <g
          id="g4427"
-         transform="matrix(1.8507626,0,0,1.8507626,-123.0866,-231.60565)"
+         transform="matrix(1.4184957,0,0,1.4184955,-82.098432,-146.90999)"
          inkscape:export-filename="/home/martin/.local/share/gnome-shell/extensions/window_buttons@biox.github.com/themes/Marmoh_sym/close_focused_prelight.png"
          inkscape:export-xdpi="58"
          inkscape:export-ydpi="58">
         <path
            inkscape:export-ydpi="58.153805"
            inkscape:export-xdpi="58.153805"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.16127133;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.81988907;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 90.267854,191.38007 9.107149,9.10714"
            id="path4429"
            inkscape:connector-curvature="0" />
@@ -584,7 +584,7 @@
            inkscape:connector-curvature="0"
            id="path4431"
            d="m 99.375003,191.38007 -9.107149,9.10714"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.16127133;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.81988907;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <g
@@ -674,17 +674,17 @@
          inkscape:export-ydpi="58"
          inkscape:export-xdpi="58"
          inkscape:export-filename="/home/martin/.local/share/gnome-shell/extensions/window_buttons@biox.github.com/themes/Marmoh_sym/close_focused_prelight.png"
-         transform="matrix(1.5568615,0,0,1.5568615,-95.218481,-174.02053)"
+         transform="matrix(1.1989034,0,0,1.1989033,-61.276382,-103.88448)"
          id="g5965">
         <path
            inkscape:connector-curvature="0"
            id="path5967"
            d="m 90.267854,191.38007 9.107149,9.10714"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92695367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.50228667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:export-xdpi="58.153805"
            inkscape:export-ydpi="58.153805" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92695367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.50228667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 99.375003,191.38007 -9.107149,9.10714"
            id="path5969"
            inkscape:connector-curvature="0"
@@ -693,7 +693,7 @@
       </g>
       <g
          id="g5971"
-         transform="matrix(1.5568615,0,0,1.5568615,-95.218481,-174.02053)"
+         transform="matrix(1.031016,0,0,1.0310159,-45.357063,-70.989679)"
          style="filter:url(#filter5306)"
          inkscape:export-filename="/home/martin/.local/share/gnome-shell/extensions/window_buttons@biox.github.com/themes/Marmoh_sym/close_focused_prelight.png"
          inkscape:export-xdpi="58"
@@ -701,7 +701,7 @@
         <path
            inkscape:export-ydpi="58.153805"
            inkscape:export-xdpi="58.153805"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92695367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.90975118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 90.267854,191.38007 9.107149,9.10714"
            id="path5973"
            inkscape:connector-curvature="0" />
@@ -711,7 +711,7 @@
            inkscape:connector-curvature="0"
            id="path5975"
            d="m 99.375003,191.38007 -9.107149,9.10714"
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.92695367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.90975118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <g
