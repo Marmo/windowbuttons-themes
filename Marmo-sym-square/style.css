@@ -1,0 +1,42 @@
+.box-bin { }
+
+.button-box {
+    spacing: 8px;
+}
+
+.window-button {
+    width: 28px;
+    height: 28px;
+    
+    transition-duration: 0;
+}
+
+.minimize {
+    background-image: url("minimize.png");
+}
+
+.minimize:hover {
+    background-color: #333;
+}
+
+.minimize:active {
+}
+
+.maximize {
+    background-image: url("maximize.png");
+}
+
+.maximize:hover{
+	background-color: #333;
+}
+
+.close {
+    background-image: url("close.png");
+}
+
+.close:hover {
+	background-color: #333;
+}
+
+.close:active {
+}
