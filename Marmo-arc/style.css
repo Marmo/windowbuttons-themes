@@ -1,0 +1,48 @@
+.box-bin { }
+
+.button-box {
+    spacing: 0px;
+}
+
+.window-button {
+    width: 32px;
+    height: 42px;
+    
+    transition-duration: 300;
+}
+
+.minimize {
+    background-image: url("minimize-normal.png");
+}
+
+.minimize:hover {
+    background-image: url("minimize-hover.png");
+}
+
+.minimize:active {
+    background-image: url("minimize-click.png");
+}
+
+.maximize {
+    background-image: url("maximize-normal.png");
+}
+
+.maximize:hover {
+    background-image: url("maximize-hover.png");
+}
+
+.maximize:active {
+    background-image: url("maximize-click.png");
+}
+
+.close {
+    background-image: url("close-normal.png");
+}
+
+.close:hover {
+    background-image: url("close-hover.png");
+}
+
+.close:active {
+    background-image: url("close-normal.png");
+}
